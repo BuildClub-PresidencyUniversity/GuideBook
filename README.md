@@ -2,6 +2,88 @@
 
 ---
 
+
+## **Title: General Lab Instructions for Innovation Lab**
+
+---
+
+**Quiet Environment:**
+
+1. **Minimize Noise:**
+   - Keep noise levels to a minimum to provide a conducive working environment for everyone.
+   - Use headphones when listening to audio, and set devices to low volume.
+
+2. **Respect Concentration:**
+   - Respect the need for concentration during project work.
+   - Use designated discussion areas for group conversations to avoid disturbing others.
+
+---
+
+**Lab Etiquette:**
+
+3. **No Food Consumption:**
+   - Strictly refrain from eating or drinking in the lab area.
+   - Utilize designated break areas for meals and snacks.
+
+4. **Clean Workspaces:**
+   - Maintain a clean and organized workspace at all times.
+   - Dispose of waste properly in designated bins.
+
+---
+
+**Equipment Handling:**
+
+5. **Handle PCs with Care:**
+   - Treat computers and equipment with care and respect.
+   - Avoid unnecessary force or rough handling when using peripherals and devices.
+
+6. **Equipment Check-Out:**
+   - Sign out any equipment you borrow and return it promptly.
+   - Report any malfunction or damage to lab staff immediately.
+
+7. **Secure Personal Items:**
+   - Secure personal belongings to avoid clutter and ensure the safety of your possessions.
+   - Use designated storage areas for bags and personal items.
+
+---
+
+**Lab Safety:**
+
+8. **Emergency Procedures:**
+   - Familiarize yourself with emergency procedures, including the location of exits and emergency equipment.
+   - Report any unsafe conditions or incidents promptly.
+
+9. **Appropriate Attire:**
+   - Wear appropriate attire for the lab environment, including closed-toe shoes.
+   - Avoid loose clothing that may pose a safety risk.
+
+---
+
+**Project Collaboration:**
+
+10. **Collaboration Spaces:**
+    - Utilize designated collaboration spaces for group discussions and project work.
+    - Respect others' space and projects during collaborative efforts.
+
+11. **Innovation and Respect:**
+    - Encourage an atmosphere of innovation and creativity.
+    - Respect diverse projects and ideas within the lab community.
+
+---
+
+**Pro Tips:**
+
+- **Communication Channels:**
+  - Use communication channels effectively, such as project management tools or designated discussion platforms.
+
+- **Scheduled Breaks:**
+  - Plan breaks in coordination with project timelines to maintain focus and productivity.
+
+- **Project Documentation:**
+  - Keep thorough documentation of project work for future reference and collaboration.
+
+---
+
 ## **Title: Arduino UNO & Mega Best Practices**
 
 ---
